@@ -1,4 +1,4 @@
-[![redpanda's GitHub Banner](./assets/profile2.png)]()
+[![redpanda's GitHub Banner](./assets/profile3.png)]()
 
 プロフィール工事中🛠️
 
