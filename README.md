@@ -1,4 +1,4 @@
-<h1>mini redpanda</h1>
+[![redpanda's GitHub Banner](./assets/profile.png)]()
 
 プロフィール工事中🛠️
 
@@ -8,7 +8,6 @@ Language / Library / Framework
 <a><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/></a>
-
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>
 <a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
