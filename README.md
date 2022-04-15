@@ -2,7 +2,10 @@
 
 ### Hello!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=30px>
 
+
 **languages and tools**
+
+<img align="right" width="200px" src="./assets/redpanda_surprise.png"/>
 
 <a><img src="https://img.shields.io/badge/HTML-1572B6?style=flat&logo=html5&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/></a>
@@ -12,6 +15,7 @@
 <a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/></a>
+
 
 <a><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Next.js-61DAFB?style=flat&logo=nextdotjs&logoColor=black"/></a>
