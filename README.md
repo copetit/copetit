@@ -1,11 +1,11 @@
 [![redpanda's GitHub Banner](./assets/profile1.png)]()
 
-## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height=30px>
+# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height=30px>
 
 <br/>
 <br/>
 
-**< languages and tools >**
+**Languages and tools**
 
 <a href=""><img src="https://img.shields.io/badge/HTML-1572B6?style=flat&logo=html5&logoColor=white"/></a>
 <a  href=""><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/></a>
