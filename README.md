@@ -1,4 +1,3 @@
-[![redpanda's GitHub Banner](./assets/profile1.png)]()
 
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height=30px>
 
