@@ -27,10 +27,10 @@
 <img
   align="left"
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=copetit&count_private=true&show_icons=true&custom_title=Github%20Status&hide_border=true&bg_color=ffffff00&title_color=32ff7b&icon_color=32ff7b&text_color=36CCC3"
+  src="https://github-readme-stats-nine-sigma-29.vercel.app/api?username=copetit&count_private=true&show_icons=true&custom_title=Github%20Status&hide_border=true&bg_color=ffffff00&title_color=32ff7b&icon_color=32ff7b&text_color=36CCC3"
 />
 
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=copetit&layout=compact&hide_border=true&bg_color=ffffff00&title_color=32ff7b&icon_color=4352DA&text_color=36CCC3"
+  src="https://github-readme-stats-nine-sigma-29.vercel.app/api/top-langs/?username=copetit&layout=compact&hide_border=true&bg_color=ffffff00&title_color=32ff7b&icon_color=4352DA&text_color=36CCC3"
 />
