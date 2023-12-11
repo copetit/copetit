@@ -23,14 +23,3 @@
 <a href=""><img src="https://img.shields.io/badge/Atlassian-0052CC?style=flat&logo=atlassian&logoColor=white"/></a>
 
 ---
-
-<img
-  align="left"
-  height="165"
-  src="https://github-readme-stats-sooty-nu.vercel.app/api?username=copetit&count_private=true&show_icons=true&custom_title=Github%20Status&hide_border=true&bg_color=ffffff00&title_color=32ff7b&icon_color=32ff7b&text_color=36CCC3"
-/>
-
-<img
-  align="center"
-  src="https://github-readme-stats-sooty-nu.vercel.app/api/top-langs/?username=copetit&layout=compact&hide_border=true&bg_color=ffffff00&title_color=32ff7b&icon_color=4352DA&text_color=36CCC3"
-/>
